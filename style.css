@@ -8,13 +8,21 @@ body {
     margin: 0px;
     padding-left: 2%;
     text-align: center;
-    padding-top: 10%
+    padding-top: 10%;
 }
 
 a {
-    color: #7289da
+    color: #7289da;
 }
 
 h1 {
-    font-size:50px
+    font-size:50px;
+}
+
+.legal {
+    font-size: 12px;
+    position: absolute;
+    padding-left: 2%;
+    padding-right: 4%;
+    bottom: 0px;
 }

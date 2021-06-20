@@ -33,7 +33,7 @@
 | Video | FLV      | 4   |     |
 | Video | AVI      | 4   |     |
 |       |          |     |     |
-| Flash | Game     | 4   |     |
+| Flash | Game     | 3   |     |
 
 
 

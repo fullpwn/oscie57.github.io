@@ -13,28 +13,25 @@
 #### Filetypes
 | Type  | Filetype | Old | New |
 | ----- | :------- | :-: | :-: |
-| Audio | MP3      | 4   |     |
-| Audio | AAC/M4A  | 4   |     |
-| Audio | OGG      | 4   |     |
-| Audio | FLAC     | 4   |     |
+| Audio | MP3      | 4   | 3   |
+| Audio | AAC/M4A  | 4   | 3   |
+| Audio | OGG      | 4   | 3   |
+| Audio | FLAC     | 4   | 3   |
 |       |          |     |     |
-| Image | IMG/JPG  | 1   |     |
-| Image | JPG      | 1   |     |
-| Image | GIF      | 4   |     |
-| Image | PNG      | 3   |     |
-| Image | BMP      | 4   |     |
-| Image | ICO      | 2   |     |
-| Image | SVG      | 4   |     |
+| Image | IMG/JPG  | 1   | 2   |
+| Image | JPG      | 1   | 7   |
+| Image | GIF      | 4   | 5   |
+| Image | PNG      | 3   | 1   |
+| Image | ICO      | 2   | 2   |
 |       |          |     |     |
-| Video | MP4      | 4   |     |
-| Video | MKV      | 4   |     |
-| Video | MOV      | 4   |     |
-| Video | WEBM     | 4   |     |
-| Video | FLV      | 4   |     |
-| Video | AVI      | 4   |     |
+| Video | MP4      | 4   | 6   |
+| Video | MKV      | 4   | 5   |
+| Video | MOV      | 4   | 5   |
+| Video | WEBM     | 4   | 5   |
+| Video | FLV      | 4   | 5   |
+| Video | AVI      | 4   | 5   |
 |       |          |     |     |
-| Flash | Game     | 3   |     |
-
+| Flash | Game     | 3   | 3   |
 
 
 ¹ Does not load, can be saved
@@ -44,6 +41,18 @@
 ³ Does not load, cannot be saved
 
 ⁴ Unsupported by browser
+
+5 Loads, cannot be played
+
+6 A couple load
+
+7 Loads, can be saved
+
+
+##### What to use
+Images, use JPG
+Videos, use MP4
+Audio, use MP3
 
 #### Unsupported Items
 

@@ -11,27 +11,29 @@
  As you'll see in https://en-americas-support.nintendo.com/app/answers/detail/a_id/13802, Video Playback is only supported by New 3DS systems, which is a pain. 
 
 #### Filetypes
-| Type  | Filetype | Old3DS | New3DS |
-| ----- | :------- | :----: | :----: |
-| Audio | MP3      | No⁴    |        |
-| Audio | AAC/M4A  | No⁴    |        |
-| Audio | OGG      | No⁴    |        |
-| Audio | FLAC     | No⁴    |        |
-|       |          |        |        |
-| Image | IMG/JPG  | No¹    |        |
-| Image | JPG      | No¹    |        |
-| Image | GIF      | No⁴    |        |
-| Image | PNG      | No³    |        |
-| Image | BMP      | No⁴    |        |
-| Image | ICO      | Yes²   |        |
-| Image | SVG      | No⁴    |        |
-|       |          |        |        |
-| Video | MP4      | No⁴    |        |
-| Video | MKV      | No⁴    |        |
-| Video | MOV      | No⁴    |        |
-| Video | WEBM     | No⁴    |        |
-| Video | FLV      | No⁴    |        |
-| Video | AVI      | No⁴    |        |
+| Type  | Filetype | Old | New |
+| ----- | :------- | :-: | :-: |
+| Audio | MP3      | 4   |     |
+| Audio | AAC/M4A  | 4   |     |
+| Audio | OGG      | 4   |     |
+| Audio | FLAC     | 4   |     |
+|       |          |     |     |
+| Image | IMG/JPG  | 1   |     |
+| Image | JPG      | 1   |     |
+| Image | GIF      | 4   |     |
+| Image | PNG      | 3   |     |
+| Image | BMP      | 4   |     |
+| Image | ICO      | 2   |     |
+| Image | SVG      | 4   |     |
+|       |          |     |     |
+| Video | MP4      | 4   |     |
+| Video | MKV      | 4   |     |
+| Video | MOV      | 4   |     |
+| Video | WEBM     | 4   |     |
+| Video | FLV      | 4   |     |
+| Video | AVI      | 4   |     |
+|       |          |     |     |
+| Flash | Game     | 4   |     |
 
 
 

@@ -23,3 +23,10 @@ img {
 h1 {
     padding-left: 30px
 }
+
+form {
+    align-items: right;
+    text-align: right;
+    text-align: top;
+    padding-right: 25px;
+}

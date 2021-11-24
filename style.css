@@ -1,15 +1,9 @@
-@font-face {
-    src: url('assets/fonts/gilroy.woff2') format('woff2'),
-         url('assets/fonts/gilroy.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-family: 'gilroy-extrabold';
-}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400&family=Roboto:wght@300&display=swap');
 
 body {
-    background-color: #2C2F33;
-    color: white;
-    font-family: 'gilroy-extrabold';
+    background-color: white;
+    color: darkslategrey;
+    font-family: 'Outfit';
 }
 
 a {

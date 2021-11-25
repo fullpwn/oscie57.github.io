@@ -19,8 +19,14 @@ h1 {
 }
 
 form {
-    align-items: right;
-    text-align: right;
     text-align: top;
     padding-right: 25px;
+}
+
+.page-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
 }

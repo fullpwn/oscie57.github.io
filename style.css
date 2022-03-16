@@ -30,3 +30,32 @@ form {
     align-items: center;
     overflow: hidden;
 }
+
+.page-header nav {
+    float: right;
+}
+
+.page-header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.page-header li {
+    float: left;
+    list-style-type: none;
+}
+
+.page-header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+.page-header li a:hover {
+    background-color: rgb(108, 128, 145);
+    border-radius: 12px;
+}

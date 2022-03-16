@@ -4,6 +4,8 @@
 [Mini Pages](/mini/index.md)
 
 [Game Backlog](/mini/game-backlog.md)
+[Social Media](/mini/socials.md)
+[Daily Log](/mini/daily-log.md)
 
 [Main Page](https://home.oscie.net)
 

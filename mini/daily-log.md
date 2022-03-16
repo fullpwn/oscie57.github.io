@@ -1,5 +1,5 @@
-# Game Backlog
-## A list of games I need to complete
+# Daily Log
+## A little look into my life
 
 [Mini Pages](/mini/index.md)
 

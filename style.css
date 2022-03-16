@@ -49,13 +49,8 @@ form {
 
 .page-header li a {
     display: block;
-    color: white;
+    color: darkslategrey;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
-}
-
-.page-header li a:hover {
-    background-color: rgb(108, 128, 145);
-    border-radius: 12px;
 }

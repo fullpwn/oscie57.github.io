@@ -1,11 +1,15 @@
-# Mini-pages
+# Mini Pages!
 ## Hello, world!
 
 [Mini Pages](/mini/index.md)
 
-[Game Backlog](/mini/game-backlog.md)
-[Social Media](/mini/socials.md)
-[Daily Log](/mini/daily-log.md)
+
+[Game Backlog](/mini/game-backlog.md) | 
+[Social Media](/mini/socials.md) | 
+[Daily Log](/mini/daily-log.md) | 
+[Money Spent](/mini/money-spent.md) | 
+[Monthly](/mini/monthly.md)
+
 
 [Main Page](https://home.oscie.net)
 
